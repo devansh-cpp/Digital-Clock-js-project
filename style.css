@@ -1,0 +1,15 @@
+body{
+ background: url(https://wallpaperswide.com/download/old_clock_black_and_white-wallpaper-2560x1440.jpg);  
+ background-size: 100%;  
+}
+#time{ 
+    margin-top: 20%;
+    margin-left: 15%;
+    font-size: 70px;
+    color: aliceblue;
+}
+#day_month{
+    font-size: 35px;
+    color: rgba(240, 248, 255, 0.438);
+    margin-left: 15%;
+}
